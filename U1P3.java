@@ -11,7 +11,7 @@ class U1P3 {
     public static void main(String args[]) {
         System.out.println("1.Seat cover-15000rs.");
         System.out.println("2.Steering wheel covers-15000rs.");
-        System.out.println("3.car lighting-7000rs.");
+        System.out.println("3.Car lighting-7000rs.");
         System.out.println("4.Air purifiers-500rs.");
         System.out.println("5.other items-enter amount.");
         System.out.println("Enter your choice: ");
